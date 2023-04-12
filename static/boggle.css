@@ -1,0 +1,41 @@
+html {
+	background-color: #454545;
+}
+h1 {
+	text-shadow: 0 0 3px cyan;
+	color: blue;
+	font-size: 55px;
+	padding-left: 1rem;
+}
+.board {
+	padding-bottom: 25px;
+	border-spacing: 0;
+	color: aliceblue;
+}
+td {
+	border: 0.03rem solid blue;	
+	font-size: 42px;
+	width: 4.5rem;
+	height: 4.5rem;
+	text-shadow: 0 0 5px yellow;
+	color: lightyellow;
+	justify-content: center;
+	text-align: center;
+}
+#start-button {
+	padding: 15px;
+	font-size: 20px;
+	background-color: cyan;
+	color: chartreuse;
+	text-shadow: 1px 1px 5px black;
+	margin-bottom: 10px;
+}
+#restart-button {
+	margin-top: 30px;
+	margin-left: 30px;
+	padding: 5px;
+	font-size: 20px;
+	background-color: cyan;
+	color: chartreuse;
+	text-shadow: 1px 1px 5px black;
+}
